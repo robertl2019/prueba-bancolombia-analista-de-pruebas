@@ -20,3 +20,5 @@ private ChoucairAcademyPage choucairAcademyPage;
         actor.attemptsTo(Open.browserOn(choucairAcademyPage));
     }
 }
+
+

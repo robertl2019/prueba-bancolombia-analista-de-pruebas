@@ -28,3 +28,4 @@ public class Answer implements Question<Boolean> {
         return result;
     }
 }
+

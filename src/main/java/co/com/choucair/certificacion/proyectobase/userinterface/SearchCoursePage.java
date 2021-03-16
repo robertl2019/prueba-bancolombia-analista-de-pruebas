@@ -15,3 +15,5 @@ public class SearchCoursePage{
             located(By.xpath("//h4[contains(text(),'Recursos Automatización Bancolombia')]"));
     public static final Target NAME_COURSE= Target.the("extract choucair university course").located(By.xpath("//h1[contains(text(),'Recursos Automatización Bancolombia')]"));
 }
+
+
