@@ -8,11 +8,11 @@ Scenario: search for automation course
          | strUser         | strPassword         |
          | IngresaTuUsuario| IngresaTuContraseña |
 
-        When he search for the course on the choucair academy plataform
+       When he search for the course on the choucair academy plataform
         | strCourse                             |
         |  recursos Automatización  Bancolombia |
 
-        Then he finds th course called resourses
+       Then he finds th course called resourses
         | strCourse                             |
         |  recursos Automatización  Bancolombia |
 

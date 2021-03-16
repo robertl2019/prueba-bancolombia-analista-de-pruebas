@@ -4,7 +4,7 @@ import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class SearchCoursePage  {
+public class SearchCoursePage {
     public static final Target BUTTON_UC = Target.the("select choucair university ") .
             located(By.xpath("//div[@id='universidad']//strong"));
     public static final Target INPUT_COURSE = Target.the("search the course ") .
