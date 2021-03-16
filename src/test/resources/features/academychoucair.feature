@@ -22,3 +22,4 @@ Scenario: Search for automation course
 
 
 
+
