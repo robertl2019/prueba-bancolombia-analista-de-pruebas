@@ -7,3 +7,4 @@ import net.thucydides.core.annotations.DefaultUrl;
 public class ChoucairAcademyPage extends PageObject {
 }
 
+
